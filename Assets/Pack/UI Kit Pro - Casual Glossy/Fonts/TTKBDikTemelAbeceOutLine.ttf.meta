@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f307ed379b1af104e9efb4d99fcbf2ad
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TTKB Dik Temel Abece OutLine
+  fontNames:
+  - TTKB Dik Temel Abece OutLine
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
